@@ -21,9 +21,9 @@ Ce fichier permet d'ouvrir une Image et de séléctionner une zone qui enverrai 
       https://www.python.org/downloads/
 
 2. Ensuite il vous faudra installé des Packages en rentrant cette commande :
-        ```
-    pip install opencv-python-headless numpy pyperclip matplotlib
-    ```
+  ```
+pip install opencv-python-headless numpy pyperclip matplotlib
+```
 
 # 🚀 Lancement du programme
 
